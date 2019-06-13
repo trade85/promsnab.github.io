@@ -5,3 +5,7 @@ body {
 P {
   text-indent: 20px;
 }
+
+.cont {
+  text-align: right;
+}
